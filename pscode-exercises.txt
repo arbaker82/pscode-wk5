@@ -14,7 +14,7 @@ print on the screen the sum of those 2 numbers
 
 ask for number
 divide number by 2
-IF remainder = 0 print 'odd' 
+IF remainder = 0 print 'even' 
 ELSE print 'odd'
 
 // Exercise 3: 
