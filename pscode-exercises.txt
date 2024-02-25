@@ -14,8 +14,8 @@ print on the screen the sum of those 2 numbers
 
 ask for number
 divide number by 2
-IF remainder = 0 print 'EVEN' 
-ELSE print 'ODD'
+IF remainder = 0 print 'odd' 
+ELSE print 'odd'
 
 // Exercise 3: 
 Write pseudo code that will perform the following.    
