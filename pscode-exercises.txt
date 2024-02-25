@@ -14,8 +14,8 @@ print on the screen the sum of those 2 numbers
 
 ask for number
 divide number by 2
-IF remainder = 0 print "EVEN"
-ELSE print "ODD"
+IF remainder = 0 print 'EVEN' 
+ELSE print 'ODD'
 
 // Exercise 3: 
 Write pseudo code that will perform the following.    
@@ -31,7 +31,7 @@ a) prompt user for 5 numbers
 
 b) add (+) numbers from array 'numbers'
    divide (/) output by 5
-   print output 'avg'
+   print output 'average'
 
 c) load array 'numbers'
    IF number < min_number
