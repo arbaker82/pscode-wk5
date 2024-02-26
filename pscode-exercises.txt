@@ -41,6 +41,7 @@ c) load array 'numbers'
    print 'max_num' and 'min_num"
 
 d)  b)print the average of all 5 numbers 
-    c)find the smallest and largest numbers 
+    c)find the smallest and largest numbers
       print on screen 
+
 -- END --
