@@ -6,7 +6,7 @@ num1 + num2 = sum
 print sum
 
 ask for 2 numbers 
-add the 2 number together 
+add the 2 numbers together 
 print on the screen the sum of those 2 numbers
 
 
@@ -25,7 +25,7 @@ b) Calculate the average of the five numbers.
 c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
 d) Write out the results found from steps b and c with a message describing what they are
 
-a) prompt user for 5 numbers
+a) prompt for 5 numbers
    loop from 1-5 after each input
    assign input to an array 'numbers'
 
@@ -42,6 +42,5 @@ c) load array 'numbers'
 
 d)  b)print the average of all 5 numbers 
     c)find the smallest and largest numbers 
-      print on screen for usr
-
+      print on screen 
 -- END --
